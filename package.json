@@ -5,7 +5,7 @@
   "homepage": "https://d3js.org/d3-scale/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/d3/d3-scale.git"
+    "url": "https://github.com/tronin/d3-scale.git"
   },
   "keywords": [
     "d3",
